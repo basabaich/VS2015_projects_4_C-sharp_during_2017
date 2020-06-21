@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="StudentDataSet" targetNamespace="http://tempuri.org/StudentDataSet.xsd" xmlns:mstns="http://tempuri.org/StudentDataSet.xsd" xmlns="http://tempuri.org/StudentDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="StudentConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="StudentConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.SaveDeleteUpdateApp.Properties.Settings.GlobalReference.Default.StudentConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="student_detailTableAdapter" GeneratorDataComponentClassName="student_detailTableAdapter" Name="student_detail" UserDataComponentName="student_detailTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="StudentConnectionString (Settings)" DbObjectName="dbo.student_detail" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT roll_no FROM dbo.student_detail</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="roll_no" DataSetColumn="roll_no" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="StudentDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="StudentDataSet" msprop:Generator_UserDSName="StudentDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="student_detail" msprop:Generator_TableClassName="student_detailDataTable" msprop:Generator_TableVarName="tablestudent_detail" msprop:Generator_TablePropName="student_detail" msprop:Generator_RowDeletingName="student_detailRowDeleting" msprop:Generator_RowChangingName="student_detailRowChanging" msprop:Generator_RowEvHandlerName="student_detailRowChangeEventHandler" msprop:Generator_RowDeletedName="student_detailRowDeleted" msprop:Generator_UserTableName="student_detail" msprop:Generator_RowChangedName="student_detailRowChanged" msprop:Generator_RowEvArgName="student_detailRowChangeEvent" msprop:Generator_RowClassName="student_detailRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="roll_no" msprop:Generator_ColumnVarNameInTable="columnroll_no" msprop:Generator_ColumnPropNameInRow="roll_no" msprop:Generator_ColumnPropNameInTable="roll_noColumn" msprop:Generator_UserColumnName="roll_no" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

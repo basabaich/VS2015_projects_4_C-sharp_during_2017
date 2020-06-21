@@ -1,0 +1,8 @@
+E:\VS2015_projects_4_C#_during_2017\March_02_Progress bar control\ProgBarFrm\ProgBarFrm\bin\Debug\ProgBarFrm.exe
+E:\VS2015_projects_4_C#_during_2017\March_02_Progress bar control\ProgBarFrm\ProgBarFrm\bin\Debug\ProgBarFrm.pdb
+E:\VS2015_projects_4_C#_during_2017\March_02_Progress bar control\ProgBarFrm\ProgBarFrm\obj\Debug\ProgBarFrm.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\March_02_Progress bar control\ProgBarFrm\ProgBarFrm\obj\Debug\ProgBarFrm.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\March_02_Progress bar control\ProgBarFrm\ProgBarFrm\obj\Debug\ProgBarFrm.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\March_02_Progress bar control\ProgBarFrm\ProgBarFrm\obj\Debug\ProgBarFrm.exe
+E:\VS2015_projects_4_C#_during_2017\March_02_Progress bar control\ProgBarFrm\ProgBarFrm\obj\Debug\ProgBarFrm.pdb
+E:\VS2015_projects_4_C#_during_2017\March_02_Progress bar control\ProgBarFrm\ProgBarFrm\obj\Debug\ProgBarFrm.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_24_DLL  file container in console\ContainerConsole\ContainerConsole\bin\Debug\ContainerConsole.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_24_DLL  file container in console\ContainerConsole\ContainerConsole\bin\Debug\ContainerConsole.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_24_DLL  file container in console\ContainerConsole\ContainerConsole\bin\Debug\ClassLib1.dll
+E:\VS2015_projects_4_C#_during_2017\Feb_24_DLL  file container in console\ContainerConsole\ContainerConsole\bin\Debug\ClassLib1.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_24_DLL  file container in console\ContainerConsole\ContainerConsole\obj\Debug\ContainerConsole.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_24_DLL  file container in console\ContainerConsole\ContainerConsole\obj\Debug\ContainerConsole.pdb

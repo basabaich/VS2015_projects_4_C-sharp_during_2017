@@ -1,0 +1,8 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_19_combining two_console_projects\CombProj1\CombProj1\bin\Release\CombProj1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_19_combining two_console_projects\CombProj1\CombProj1\bin\Release\CombProj1.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_19_combining two_console_projects\CombProj1\CombProj1\bin\Release\TestHello.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_19_combining two_console_projects\CombProj1\CombProj1\bin\Release\TestSeller.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_19_combining two_console_projects\CombProj1\CombProj1\bin\Release\TestHello.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_19_combining two_console_projects\CombProj1\CombProj1\bin\Release\TestSeller.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_19_combining two_console_projects\CombProj1\CombProj1\obj\Release\CombProj1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_19_combining two_console_projects\CombProj1\CombProj1\obj\Release\CombProj1.pdb

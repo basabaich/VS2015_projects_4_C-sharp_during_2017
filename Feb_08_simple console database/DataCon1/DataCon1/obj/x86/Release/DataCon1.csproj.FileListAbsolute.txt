@@ -1,0 +1,11 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\bin\x86\Release\ba_data1.mdf
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\bin\x86\Release\ba_data1_log.ldf
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\bin\x86\Release\db_dat2.mdb
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\bin\x86\Release\DataCon1.exe.config
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\bin\x86\Release\DataCon1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\bin\x86\Release\DataCon1.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\obj\x86\Release\DataCon1.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\obj\x86\Release\DataCon1.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\obj\x86\Release\DataCon1.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\obj\x86\Release\DataCon1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_08_simple console database\DataCon1\DataCon1\obj\x86\Release\DataCon1.pdb

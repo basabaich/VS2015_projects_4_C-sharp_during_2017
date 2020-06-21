@@ -1,0 +1,10 @@
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\bin\Debug\BizContacts.mdf
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\bin\Debug\BizContacts_log.ldf
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\bin\Debug\DataCSharpWinApp1.exe
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\bin\Debug\DataCSharpWinApp1.pdb
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\obj\Debug\DataCSharpWinApp1.csprojResolveAssemblyReference.cache
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\obj\Debug\DataCSharpWinApp1.FormMain.resources
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\obj\Debug\DataCSharpWinApp1.Properties.Resources.resources
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\obj\Debug\DataCSharpWinApp1.csproj.GenerateResource.Cache
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\obj\Debug\DataCSharpWinApp1.exe
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_04_2017_C#Windows_database_exp\DataCSharpWinApp1\DataCSharpWinApp1\obj\Debug\DataCSharpWinApp1.pdb

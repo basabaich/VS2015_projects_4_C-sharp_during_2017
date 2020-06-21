@@ -1,0 +1,10 @@
+adsadad
+
+Load the whole file
+use string.split('\n') to divide the contents into lines
+use string.replace(' ',',') to insert commas.
+Save the file.
+Or, as waqasahmed said, just do it one at a line. 
+See also: http://www.csharphelp.com/archives/archive24.html
+Also, this sounds suspiciously like a homework problem. Maybe we should have a "homework" tag?
+

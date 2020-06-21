@@ -1,0 +1,8 @@
+E:\VS2015_projects_4_C#_during_2017\March_09_textbox in run time frm another class\TxtClassRun\TxtClassRun\bin\Debug\TxtClassRun.exe
+E:\VS2015_projects_4_C#_during_2017\March_09_textbox in run time frm another class\TxtClassRun\TxtClassRun\bin\Debug\TxtClassRun.pdb
+E:\VS2015_projects_4_C#_during_2017\March_09_textbox in run time frm another class\TxtClassRun\TxtClassRun\obj\Debug\TxtClassRun.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\March_09_textbox in run time frm another class\TxtClassRun\TxtClassRun\obj\Debug\TxtClassRun.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\March_09_textbox in run time frm another class\TxtClassRun\TxtClassRun\obj\Debug\TxtClassRun.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\March_09_textbox in run time frm another class\TxtClassRun\TxtClassRun\obj\Debug\TxtClassRun.exe
+E:\VS2015_projects_4_C#_during_2017\March_09_textbox in run time frm another class\TxtClassRun\TxtClassRun\obj\Debug\TxtClassRun.pdb
+E:\VS2015_projects_4_C#_during_2017\March_09_textbox in run time frm another class\TxtClassRun\TxtClassRun\obj\Debug\TxtClassRun.csprojResolveAssemblyReference.cache

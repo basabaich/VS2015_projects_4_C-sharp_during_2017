@@ -1,0 +1,11 @@
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\bin\Debug\BizContacts.exe.config
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\bin\Debug\BizContacts.mdf
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\bin\Debug\BizContacts_log.ldf
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\bin\Debug\BizContacts.exe
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\bin\Debug\BizContacts.pdb
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\obj\Debug\BizContacts.csprojResolveAssemblyReference.cache
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\obj\Debug\BizContacts.frmMain.resources
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\obj\Debug\BizContacts.Properties.Resources.resources
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\obj\Debug\BizContacts.csproj.GenerateResource.Cache
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\obj\Debug\BizContacts.exe
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_05_2017_C#Windows_database_exp\BizContacts\BizContacts\obj\Debug\BizContacts.pdb

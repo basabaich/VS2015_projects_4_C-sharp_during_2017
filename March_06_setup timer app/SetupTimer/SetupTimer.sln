@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupTimer", "SetupTimer\SetupTimer.vdproj", "{F46729D3-1809-4825-A757-3777ABA8067A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F46729D3-1809-4825-A757-3777ABA8067A}.Debug|Default.ActiveCfg = Debug
+		{F46729D3-1809-4825-A757-3777ABA8067A}.Debug|Default.Build.0 = Debug
+		{F46729D3-1809-4825-A757-3777ABA8067A}.Release|Default.ActiveCfg = Release
+		{F46729D3-1809-4825-A757-3777ABA8067A}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

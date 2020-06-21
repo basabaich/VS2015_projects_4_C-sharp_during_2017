@@ -1,0 +1,10 @@
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\bin\Debug\DataExp1.exe.config
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\bin\Debug\DataExp1.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\bin\Debug\DataExp1.pdb
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\obj\Debug\DataExp1.MainForm1.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\obj\Debug\DataExp1.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\obj\Debug\DataExp1.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\obj\Debug\DataExp1.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\obj\Debug\DataExp1.pdb
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\bin\Debug\db_dat2.mdb
+E:\VS2015_projects_4_C#_during_2017\Jan_06_Database_ODBC_exp1\DataExp1\DataExp1\obj\Debug\DataExp1.csprojResolveAssemblyReference.cache

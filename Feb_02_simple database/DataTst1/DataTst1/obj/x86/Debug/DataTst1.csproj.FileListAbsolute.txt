@@ -1,0 +1,7 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_02_simple database\DataTst1\DataTst1\bin\x86\Debug\DataTst1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_02_simple database\DataTst1\DataTst1\bin\x86\Debug\DataTst1.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_02_simple database\DataTst1\DataTst1\obj\x86\Debug\DataTst1.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_02_simple database\DataTst1\DataTst1\obj\x86\Debug\DataTst1.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_02_simple database\DataTst1\DataTst1\obj\x86\Debug\DataTst1.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Feb_02_simple database\DataTst1\DataTst1\obj\x86\Debug\DataTst1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_02_simple database\DataTst1\DataTst1\obj\x86\Debug\DataTst1.pdb

@@ -1,0 +1,8 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_14_simple console timer\FormChk\FormChk\bin\Debug\FormChk.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_14_simple console timer\FormChk\FormChk\bin\Debug\FormChk.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_14_simple console timer\FormChk\FormChk\obj\Debug\FormChk.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\Feb_14_simple console timer\FormChk\FormChk\obj\Debug\FormChk.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_14_simple console timer\FormChk\FormChk\obj\Debug\FormChk.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_14_simple console timer\FormChk\FormChk\obj\Debug\FormChk.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Feb_14_simple console timer\FormChk\FormChk\obj\Debug\FormChk.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_14_simple console timer\FormChk\FormChk\obj\Debug\FormChk.pdb

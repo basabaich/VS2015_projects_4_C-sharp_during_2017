@@ -1,0 +1,5 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_07_simple console database\DataCon1\DataCon1\obj\Debug\DataCon1.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\Feb_07_simple console database\DataCon1\DataCon1\bin\Debug\DataCon1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_07_simple console database\DataCon1\DataCon1\bin\Debug\DataCon1.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_07_simple console database\DataCon1\DataCon1\obj\Debug\DataCon1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_07_simple console database\DataCon1\DataCon1\obj\Debug\DataCon1.pdb

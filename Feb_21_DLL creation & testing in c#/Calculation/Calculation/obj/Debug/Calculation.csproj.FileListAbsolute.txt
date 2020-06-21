@@ -1,0 +1,5 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_21_DLL creation & testing in c#\Calculation\Calculation\bin\Debug\Calculation.dll
+E:\VS2015_projects_4_C#_during_2017\Feb_21_DLL creation & testing in c#\Calculation\Calculation\bin\Debug\Calculation.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_21_DLL creation & testing in c#\Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\Feb_21_DLL creation & testing in c#\Calculation\Calculation\obj\Debug\Calculation.dll
+E:\VS2015_projects_4_C#_during_2017\Feb_21_DLL creation & testing in c#\Calculation\Calculation\obj\Debug\Calculation.pdb

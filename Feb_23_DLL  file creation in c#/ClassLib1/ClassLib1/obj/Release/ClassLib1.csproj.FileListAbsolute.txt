@@ -1,0 +1,4 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_23_DLL  file creation in c#\ClassLib1\ClassLib1\bin\Release\ClassLib1.dll
+E:\VS2015_projects_4_C#_during_2017\Feb_23_DLL  file creation in c#\ClassLib1\ClassLib1\bin\Release\ClassLib1.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_23_DLL  file creation in c#\ClassLib1\ClassLib1\obj\Release\ClassLib1.dll
+E:\VS2015_projects_4_C#_during_2017\Feb_23_DLL  file creation in c#\ClassLib1\ClassLib1\obj\Release\ClassLib1.pdb

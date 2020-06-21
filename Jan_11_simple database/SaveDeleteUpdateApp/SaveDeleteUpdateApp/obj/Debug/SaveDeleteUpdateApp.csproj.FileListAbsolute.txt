@@ -1,0 +1,10 @@
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\bin\Debug\Student.mdf
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\bin\Debug\Student_log.ldf
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\bin\Debug\SaveDeleteUpdateApp.exe.config
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\bin\Debug\SaveDeleteUpdateApp.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\bin\Debug\SaveDeleteUpdateApp.pdb
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\obj\Debug\SaveDeleteUpdateApp.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\obj\Debug\SaveDeleteUpdateApp.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\obj\Debug\SaveDeleteUpdateApp.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\obj\Debug\SaveDeleteUpdateApp.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_11_simple database\SaveDeleteUpdateApp\SaveDeleteUpdateApp\obj\Debug\SaveDeleteUpdateApp.pdb

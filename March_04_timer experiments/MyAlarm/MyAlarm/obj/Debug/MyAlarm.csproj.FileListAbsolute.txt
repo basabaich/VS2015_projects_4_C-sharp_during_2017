@@ -1,0 +1,8 @@
+E:\VS2015_projects_4_C#_during_2017\March_04_timer experiments\MyAlarm\MyAlarm\bin\Debug\MyAlarm.exe
+E:\VS2015_projects_4_C#_during_2017\March_04_timer experiments\MyAlarm\MyAlarm\bin\Debug\MyAlarm.pdb
+E:\VS2015_projects_4_C#_during_2017\March_04_timer experiments\MyAlarm\MyAlarm\obj\Debug\MyAlarm.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\March_04_timer experiments\MyAlarm\MyAlarm\obj\Debug\MyAlarm.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\March_04_timer experiments\MyAlarm\MyAlarm\obj\Debug\MyAlarm.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\March_04_timer experiments\MyAlarm\MyAlarm\obj\Debug\MyAlarm.exe
+E:\VS2015_projects_4_C#_during_2017\March_04_timer experiments\MyAlarm\MyAlarm\obj\Debug\MyAlarm.pdb
+E:\VS2015_projects_4_C#_during_2017\March_04_timer experiments\MyAlarm\MyAlarm\obj\Debug\MyAlarm.csprojResolveAssemblyReference.cache

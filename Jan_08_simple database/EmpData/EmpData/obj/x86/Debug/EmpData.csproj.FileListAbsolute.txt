@@ -1,0 +1,7 @@
+E:\VS2015_projects_4_C#_during_2017\Jan_08_simple database\EmpData\EmpData\bin\x86\Debug\EmpData.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_08_simple database\EmpData\EmpData\bin\x86\Debug\EmpData.pdb
+E:\VS2015_projects_4_C#_during_2017\Jan_08_simple database\EmpData\EmpData\obj\x86\Debug\EmpData.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_08_simple database\EmpData\EmpData\obj\x86\Debug\EmpData.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_08_simple database\EmpData\EmpData\obj\x86\Debug\EmpData.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Jan_08_simple database\EmpData\EmpData\obj\x86\Debug\EmpData.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_08_simple database\EmpData\EmpData\obj\x86\Debug\EmpData.pdb

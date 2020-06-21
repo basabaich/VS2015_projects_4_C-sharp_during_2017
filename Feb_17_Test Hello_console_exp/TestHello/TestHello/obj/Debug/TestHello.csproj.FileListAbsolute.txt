@@ -1,0 +1,6 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_17_Test Hello_console_exp\TestHello\TestHello\bin\Debug\TestHello.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_17_Test Hello_console_exp\TestHello\TestHello\bin\Debug\TestHello.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_17_Test Hello_console_exp\TestHello\TestHello\obj\Debug\TestHello.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_17_Test Hello_console_exp\TestHello\TestHello\obj\Debug\TestHello.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_17_Test Hello_console_exp\TestHello\TestHello\bin\Debug\TestHello.exe.config
+E:\VS2015_projects_4_C#_during_2017\Feb_17_Test Hello_console_exp\TestHello\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache

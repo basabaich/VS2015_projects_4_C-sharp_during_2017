@@ -1,0 +1,9 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_27_Second Form creation\SecondForm\SecondForm\bin\Debug\SecondForm.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_27_Second Form creation\SecondForm\SecondForm\bin\Debug\SecondForm.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_27_Second Form creation\SecondForm\SecondForm\obj\Debug\SecondForm.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\Feb_27_Second Form creation\SecondForm\SecondForm\obj\Debug\SecondForm.ChangeForm.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_27_Second Form creation\SecondForm\SecondForm\obj\Debug\SecondForm.Form2.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_27_Second Form creation\SecondForm\SecondForm\obj\Debug\SecondForm.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_27_Second Form creation\SecondForm\SecondForm\obj\Debug\SecondForm.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Feb_27_Second Form creation\SecondForm\SecondForm\obj\Debug\SecondForm.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_27_Second Form creation\SecondForm\SecondForm\obj\Debug\SecondForm.pdb

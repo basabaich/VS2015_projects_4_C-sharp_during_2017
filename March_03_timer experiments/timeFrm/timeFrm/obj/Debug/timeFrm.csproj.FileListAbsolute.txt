@@ -1,0 +1,8 @@
+E:\VS2015_projects_4_C#_during_2017\March_03_timer experiments\timeFrm\timeFrm\bin\Debug\timeFrm.exe
+E:\VS2015_projects_4_C#_during_2017\March_03_timer experiments\timeFrm\timeFrm\bin\Debug\timeFrm.pdb
+E:\VS2015_projects_4_C#_during_2017\March_03_timer experiments\timeFrm\timeFrm\obj\Debug\timeFrm.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\March_03_timer experiments\timeFrm\timeFrm\obj\Debug\timeFrm.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\March_03_timer experiments\timeFrm\timeFrm\obj\Debug\timeFrm.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\March_03_timer experiments\timeFrm\timeFrm\obj\Debug\timeFrm.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\March_03_timer experiments\timeFrm\timeFrm\obj\Debug\timeFrm.exe
+E:\VS2015_projects_4_C#_during_2017\March_03_timer experiments\timeFrm\timeFrm\obj\Debug\timeFrm.pdb

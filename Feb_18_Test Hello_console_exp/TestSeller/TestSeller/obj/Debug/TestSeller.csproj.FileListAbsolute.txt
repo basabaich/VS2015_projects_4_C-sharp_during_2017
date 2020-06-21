@@ -1,0 +1,5 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_18_Test Hello_console_exp\TestSeller\TestSeller\bin\Debug\TestSeller.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_18_Test Hello_console_exp\TestSeller\TestSeller\bin\Debug\TestSeller.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_18_Test Hello_console_exp\TestSeller\TestSeller\obj\Debug\TestSeller.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_18_Test Hello_console_exp\TestSeller\TestSeller\obj\Debug\TestSeller.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_18_Test Hello_console_exp\TestSeller\TestSeller\obj\Debug\TestSeller.csprojResolveAssemblyReference.cache

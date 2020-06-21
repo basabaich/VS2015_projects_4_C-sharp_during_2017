@@ -1,0 +1,7 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_03_simple database\DataExp3\DataExp3\bin\Debug\DataExp3.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_03_simple database\DataExp3\DataExp3\bin\Debug\DataExp3.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_03_simple database\DataExp3\DataExp3\obj\Debug\DataExp3.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_03_simple database\DataExp3\DataExp3\obj\Debug\DataExp3.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_03_simple database\DataExp3\DataExp3\obj\Debug\DataExp3.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Feb_03_simple database\DataExp3\DataExp3\obj\Debug\DataExp3.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_03_simple database\DataExp3\DataExp3\obj\Debug\DataExp3.pdb

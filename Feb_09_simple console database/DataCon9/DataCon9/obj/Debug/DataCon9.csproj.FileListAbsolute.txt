@@ -1,0 +1,5 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_09_simple console database\DataCon9\DataCon9\bin\Debug\DataCon9.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_09_simple console database\DataCon9\DataCon9\bin\Debug\DataCon9.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_09_simple console database\DataCon9\DataCon9\obj\Debug\DataCon9.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_09_simple console database\DataCon9\DataCon9\obj\Debug\DataCon9.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_09_simple console database\DataCon9\DataCon9\obj\Debug\DataCon9.csprojResolveAssemblyReference.cache

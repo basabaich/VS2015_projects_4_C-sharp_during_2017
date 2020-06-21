@@ -1,0 +1,8 @@
+E:\VS2015_projects_4_C#_during_2017\March_01_Timer control\FrmTimer\FrmTimer\bin\Debug\FrmTimer.exe
+E:\VS2015_projects_4_C#_during_2017\March_01_Timer control\FrmTimer\FrmTimer\bin\Debug\FrmTimer.pdb
+E:\VS2015_projects_4_C#_during_2017\March_01_Timer control\FrmTimer\FrmTimer\obj\Debug\FrmTimer.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\March_01_Timer control\FrmTimer\FrmTimer\obj\Debug\FrmTimer.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\March_01_Timer control\FrmTimer\FrmTimer\obj\Debug\FrmTimer.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\March_01_Timer control\FrmTimer\FrmTimer\obj\Debug\FrmTimer.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\March_01_Timer control\FrmTimer\FrmTimer\obj\Debug\FrmTimer.exe
+E:\VS2015_projects_4_C#_during_2017\March_01_Timer control\FrmTimer\FrmTimer\obj\Debug\FrmTimer.pdb

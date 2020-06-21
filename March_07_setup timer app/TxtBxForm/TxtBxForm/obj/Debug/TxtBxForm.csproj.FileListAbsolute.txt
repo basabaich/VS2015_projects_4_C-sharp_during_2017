@@ -1,0 +1,8 @@
+E:\VS2015_projects_4_C#_during_2017\March_07_setup timer app\TxtBxForm\TxtBxForm\bin\Debug\TxtBxForm.exe
+E:\VS2015_projects_4_C#_during_2017\March_07_setup timer app\TxtBxForm\TxtBxForm\bin\Debug\TxtBxForm.pdb
+E:\VS2015_projects_4_C#_during_2017\March_07_setup timer app\TxtBxForm\TxtBxForm\obj\Debug\TxtBxForm.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\March_07_setup timer app\TxtBxForm\TxtBxForm\obj\Debug\TxtBxForm.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\March_07_setup timer app\TxtBxForm\TxtBxForm\obj\Debug\TxtBxForm.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\March_07_setup timer app\TxtBxForm\TxtBxForm\obj\Debug\TxtBxForm.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\March_07_setup timer app\TxtBxForm\TxtBxForm\obj\Debug\TxtBxForm.exe
+E:\VS2015_projects_4_C#_during_2017\March_07_setup timer app\TxtBxForm\TxtBxForm\obj\Debug\TxtBxForm.pdb

@@ -1,0 +1,2 @@
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_01_database_in_c#\DataHandleInCSharp1\DataHandleInCSharp1\obj\Debug\DataHandleInCSharp1.exe
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_01_database_in_c#\DataHandleInCSharp1\DataHandleInCSharp1\obj\Debug\DataHandleInCSharp1.pdb

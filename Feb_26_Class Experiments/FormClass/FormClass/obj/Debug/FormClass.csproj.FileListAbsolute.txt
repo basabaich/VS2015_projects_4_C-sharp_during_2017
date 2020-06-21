@@ -1,0 +1,7 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_26_Class Experiments\FormClass\FormClass\bin\Debug\FormClass.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_26_Class Experiments\FormClass\FormClass\bin\Debug\FormClass.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_26_Class Experiments\FormClass\FormClass\obj\Debug\FormClass.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_26_Class Experiments\FormClass\FormClass\obj\Debug\FormClass.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_26_Class Experiments\FormClass\FormClass\obj\Debug\FormClass.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Feb_26_Class Experiments\FormClass\FormClass\obj\Debug\FormClass.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_26_Class Experiments\FormClass\FormClass\obj\Debug\FormClass.pdb

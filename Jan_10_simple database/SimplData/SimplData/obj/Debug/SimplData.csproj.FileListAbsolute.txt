@@ -1,0 +1,9 @@
+E:\VS2015_projects_4_C#_during_2017\Jan_10_simple database\SimplData\SimplData\bin\Debug\SimplData.exe.config
+E:\VS2015_projects_4_C#_during_2017\Jan_10_simple database\SimplData\SimplData\bin\Debug\SimplData.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_10_simple database\SimplData\SimplData\bin\Debug\SimplData.pdb
+E:\VS2015_projects_4_C#_during_2017\Jan_10_simple database\SimplData\SimplData\obj\Debug\SimplData.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\Jan_10_simple database\SimplData\SimplData\obj\Debug\SimplData.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_10_simple database\SimplData\SimplData\obj\Debug\SimplData.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_10_simple database\SimplData\SimplData\obj\Debug\SimplData.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Jan_10_simple database\SimplData\SimplData\obj\Debug\SimplData.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_10_simple database\SimplData\SimplData\obj\Debug\SimplData.pdb

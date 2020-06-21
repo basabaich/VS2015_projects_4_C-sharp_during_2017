@@ -1,0 +1,4 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_22_DLL  file usage in c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_22_DLL  file usage in c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Feb_22_DLL  file usage in c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Feb_22_DLL  file usage in c#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

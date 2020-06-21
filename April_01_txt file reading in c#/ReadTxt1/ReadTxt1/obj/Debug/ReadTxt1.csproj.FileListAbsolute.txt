@@ -1,0 +1,8 @@
+E:\VS2015_projects_4_C#_during_2017\April_01_txt file reading in c#\ReadTxt1\ReadTxt1\bin\Debug\ReadTxt1.exe
+E:\VS2015_projects_4_C#_during_2017\April_01_txt file reading in c#\ReadTxt1\ReadTxt1\bin\Debug\ReadTxt1.pdb
+E:\VS2015_projects_4_C#_during_2017\April_01_txt file reading in c#\ReadTxt1\ReadTxt1\obj\Debug\ReadTxt1.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\April_01_txt file reading in c#\ReadTxt1\ReadTxt1\obj\Debug\ReadTxt1.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\April_01_txt file reading in c#\ReadTxt1\ReadTxt1\obj\Debug\ReadTxt1.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\April_01_txt file reading in c#\ReadTxt1\ReadTxt1\obj\Debug\ReadTxt1.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\April_01_txt file reading in c#\ReadTxt1\ReadTxt1\obj\Debug\ReadTxt1.exe
+E:\VS2015_projects_4_C#_during_2017\April_01_txt file reading in c#\ReadTxt1\ReadTxt1\obj\Debug\ReadTxt1.pdb

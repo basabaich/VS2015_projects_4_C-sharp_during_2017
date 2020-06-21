@@ -1,0 +1,7 @@
+E:\VS2015_projects_4_C#_during_2017\Jan_12_simple database\MySqlNavigate\MySqlNavigate\bin\Debug\MySqlNavigate.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_12_simple database\MySqlNavigate\MySqlNavigate\bin\Debug\MySqlNavigate.pdb
+E:\VS2015_projects_4_C#_during_2017\Jan_12_simple database\MySqlNavigate\MySqlNavigate\obj\Debug\MySqlNavigate.Form1.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_12_simple database\MySqlNavigate\MySqlNavigate\obj\Debug\MySqlNavigate.Properties.Resources.resources
+E:\VS2015_projects_4_C#_during_2017\Jan_12_simple database\MySqlNavigate\MySqlNavigate\obj\Debug\MySqlNavigate.csproj.GenerateResource.Cache
+E:\VS2015_projects_4_C#_during_2017\Jan_12_simple database\MySqlNavigate\MySqlNavigate\obj\Debug\MySqlNavigate.exe
+E:\VS2015_projects_4_C#_during_2017\Jan_12_simple database\MySqlNavigate\MySqlNavigate\obj\Debug\MySqlNavigate.pdb

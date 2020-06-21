@@ -1,0 +1,5 @@
+E:\VS2015_projects_4_C#_during_2017\Feb_16_Class_console_exp\ConClasExp1\ConClasExp1\bin\Debug\ConClasExp1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_16_Class_console_exp\ConClasExp1\ConClasExp1\bin\Debug\ConClasExp1.pdb
+E:\VS2015_projects_4_C#_during_2017\Feb_16_Class_console_exp\ConClasExp1\ConClasExp1\obj\Debug\ConClasExp1.csprojResolveAssemblyReference.cache
+E:\VS2015_projects_4_C#_during_2017\Feb_16_Class_console_exp\ConClasExp1\ConClasExp1\obj\Debug\ConClasExp1.exe
+E:\VS2015_projects_4_C#_during_2017\Feb_16_Class_console_exp\ConClasExp1\ConClasExp1\obj\Debug\ConClasExp1.pdb

@@ -1,0 +1,4 @@
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_02_class library experiments_in_c#\MyPhotoAlbum\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_02_class library experiments_in_c#\MyPhotoAlbum\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_02_class library experiments_in_c#\MyPhotoAlbum\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+E:\Visual Studio projects_4_C#_in_VS2015\Jan_02_class library experiments_in_c#\MyPhotoAlbum\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
